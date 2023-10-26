@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'Basier Circle';
+	font-style: normal;
+	font-weight: 500;
+	src: url('/fonts/basier-circle/BasierCircle-Regular.eot');
+	src: url('/fonts/basier-circle/BasierCircle-Regular.eot?#iefix') format('embedded-opentype'),
+		url('/fonts/basier-circle/BasierCircle-Regular.woff2') format('woff2'),
+		url('/fonts/basier-circle/BasierCircle-Regular.woff') format('woff'),
+		url('/fonts/basier-circle/BasierCircle-Regular.ttf') format('truetype');
+}
+
+:root {
+	--bg-disabled: #ecedef;
+	--bg-primary: #ebf1ff;
+	--primary: #4253ff;
+
+	--component-border: #ecedef;
+}
+
+button {
+	background: none;
+	cursor: pointer;
+}
