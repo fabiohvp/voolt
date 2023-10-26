@@ -3,6 +3,8 @@
 - Tried to show multiple ways to handle components and use most stuff that we would use on daily basis (slots, types, events, bind, etc..).
 - I was planning on add at least one test but I need to wake up in 4 hours..
 - I've added a couple comments on the project.
+- Avoid using libraries, I wanted to show my capabilities using svelte alone.
+- One thing that I didn't use was stores/context, couldn't find a use for them in this small project.
 
 # create-svelte
 
