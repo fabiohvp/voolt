@@ -1,3 +1,9 @@
+# About the interview
+
+- Tried to show multiple ways to handle components and use most stuff that we would use on daily basis (slots, types, events, bind, etc..).
+- I was planning on add at least one test but I need to wake up in 4 hours..
+- I've added a couple comments on the project.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
